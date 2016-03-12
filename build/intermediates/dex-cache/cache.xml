@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="M:\Deep blue\Malnutrition\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\libs\internal_impl-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6e239441500605809818997dd63b62a947195f8c">
+        <dex dex="M:\Deep blue\Malnutrition\app\build\intermediates\pre-dexed\debug\internal_impl-23.2.0_91396013d99477e321dacc6e2a29f979a02df6c0.jar" />
+    </item>
+    <item
+        jar="M:\Deep blue\Malnutrition\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6e3578f92f7462d1a935a1d36173e3bdd1234976">
+        <dex dex="M:\Deep blue\Malnutrition\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.2.0_957f16cfc70372bf97ecbb26f676b999e6e6acd7.jar" />
+    </item>
+    <item
+        jar="M:\Deep blue\Malnutrition\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8c108c22c99e794eff255bb34d2a461200c4cbb0">
+        <dex dex="M:\Deep blue\Malnutrition\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.2.0_89d197aa430b3c050731044a5b46f2f025ad1d08.jar" />
+    </item>
+    <item
+        jar="M:\Deep blue\Malnutrition\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="292a9fa091757208efa65e77eef63088247e51f3">
+        <dex dex="M:\Deep blue\Malnutrition\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.2.0_67324246bcb9384df1f3d426a1e8f3ede29cda47.jar" />
+    </item>
+    <item
+        jar="C:\Users\Vighnesh\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.0\support-annotations-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
+        <dex dex="M:\Deep blue\Malnutrition\app\build\intermediates\pre-dexed\debug\support-annotations-23.2.0_815c76eee07222320a748cecd918ad5a18dd7e75.jar" />
+    </item>
+    <item
+        jar="M:\Deep blue\Malnutrition\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
+        <dex dex="M:\Deep blue\Malnutrition\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.2.0_5fde03cddcea8124af038833f653504d26e9fd29.jar" />
+    </item>
+
+</items>
